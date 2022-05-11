@@ -1,0 +1,3 @@
+- ola, meu nome e patricia 
+- estou interessado em aprender programacao 
+- atualmente estou aprendendo a programar em scratch e javascript 
